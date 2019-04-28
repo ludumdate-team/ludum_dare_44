@@ -1,0 +1,272 @@
+[
+    {
+        "name" : "Chilhood",
+        "events" : [
+            {
+                "name" : "Parent's divorce",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Educational toys",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "A lot of time in front of the mirror",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Ghosts",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "Pocket money",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Analizing adults",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Having the authority among peers",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Picked up an animal",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    },
+    {
+        "name" : "Study",
+        "events" : [
+            {
+                "name" : "Selling chewing gum to classmates",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Helping classmates with material",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Winking at old women in the courtyard",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Trying to steal the Golden statue of Buddha from the teacher's Desk",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "Getting a part-time job",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Winning the contest",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Breaking a bouquet and giving flowers to classmates instead of teachers",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Being punished to sit after lessons, and preferring to go on the \"Religions of the world\" elective, instead of sitting alone in class",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    },
+    {
+        "name" : "Disasters",
+        "events" : [
+            {
+                "name" : "Your parents died and left you legacy",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Getting in contact with an extraterrestrial intelligence",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Taking a photo in front of the tornado",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Saving a chid from the burning house",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "Found a piece of meteorite and sold it",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Fooling the lighting",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Steeling clothes from the destroyed shop",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Meditating the fear of a hurricane out",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    },
+    {
+        "name" : "Love",
+        "events" : [
+            {
+                "name" : "Not paying in cafe ever",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Trying everything ;)",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Sleeping with the celebrity",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Marrying the first love",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "Wealthy lover",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Braking up of an abusive relationship",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Funny joke in the right moment",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Staying innocent until wedding",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    },
+    {
+        "name" : "Journey",
+        "events" : [
+            {
+                "name" : "Discovering a treasure",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Spending the whole night in the woods",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Learning a compliment in another language",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Making a pilgrimage",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "Overhearing a talk about the adjustment in exchange rates ",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Learning new information about other cultures",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Developing a skill \"I look good no matter what\"",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Met a travelling monk",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    },
+    {
+        "name" : "Family",
+        "events" : [
+            {
+                "name" : "Marrying a wealthy partner",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Marrying a smart partner",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Changing partners, gaining experience",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Finding out about religious ancestors",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "OH NO THERE'S NO EVENT YET",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Concentrating on self-development instead of building relationship",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Your child is telling everyone how great you are",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Vow of chastity",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    }
+]
