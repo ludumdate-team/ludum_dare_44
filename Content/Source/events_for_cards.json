@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "name" : "Childhood",
         "events" : [
@@ -47,7 +47,7 @@
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/1_7.1_7'",
                 "title" : "Cool kid",
-                "info" : "Cooooooooly",
+                "info" : "Cooooooool",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_4.4Монтажная_область_4'",
                 "value" : 1
             },
@@ -80,7 +80,7 @@
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/2_3.2_3'",
                 "title" : "Hold the server!",
-                "info" : "?????????? (ДОПРИДУМАТЬ)",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_4.4Монтажная_область_4'",
                 "value" : 1
             },
@@ -101,7 +101,7 @@
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/2_6.2_6'",
                 "title" : "The best speller",
-                "info" : "You can cast some awesome spells with your tongue. I-N-C-O-M-E T-A-X( / V-I-V-I-S-E-P-U-L-T-U-R-E / M-I-S-S-I-S-S-I-P-P-I )! (надо бы какое-нибудь ироничное слово...)",
+                "info" : "You can cast some awesome spells with your tongue. V-I-V-I-S-E-P-U-L-T-U-R-E!",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_1.4Монтажная_область_1'",
                 "value" : 1
             },
@@ -127,56 +127,56 @@
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/3_1.3_1'",
                 "title" : "Puff! You're rich",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_3.4Монтажная_область_3'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/3_2.3_2'",
                 "title" : "Is this your UFO?",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_1.4Монтажная_область_1'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/3_3.3_3'",
                 "title" : "Rider on the storm",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_4.4Монтажная_область_4'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/3_4.3_4'",
                 "title" : "U VS Fire God",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :  "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_2.4Монтажная_область_2'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/3_5.3_5'",
                 "title" : "Shooting stars",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_3.4Монтажная_область_3'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/3_6.3_6'",
                 "title" : "Fooling the lighting",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_1.4Монтажная_область_1'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/3_7.3_7'",
                 "title" : "Free clothes!",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_4.4Монтажная_область_4'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/3_8.3_8'",
                 "title" : "Calm during the storm",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :  "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_2.4Монтажная_область_2'",
                 "value" : 1
             }
@@ -188,56 +188,56 @@
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/4_1.4_1'",
                 "title" : "Not paying in cafe. Ever",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :"Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_3.4Монтажная_область_3'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/4_2.4_2'",
                 "title" : "Trying everything ;)",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_1.4Монтажная_область_1'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/4_3.4_3'",
                 "title" : "Fan sex",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_4.4Монтажная_область_4'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/4_4.4_4'",
                 "title" : "Home priest",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :  "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_2.4Монтажная_область_2'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/4_5.4_5'",
                 "title" : "Love made of gold",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_3.4Монтажная_область_3'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/4_6.4_6'",
                 "title" : "Bye, abuser",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_1.4Монтажная_область_1'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/4_7.4_7'",
                 "title" : "Nice shot",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :"Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_4.4Монтажная_область_4'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/4_8.4_8'",
                 "title" : "Praying for ex's",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :  "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_2.4Монтажная_область_2'",
                 "value" : 1
             }
@@ -249,56 +249,56 @@
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/5_1.5_1'",
                 "title" : "Dead man's chest",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_3.4Монтажная_область_3'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/5_2.5_2'",
                 "title" : "Night in the woods",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_1.4Монтажная_область_1'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/5_3.5_3'",
                 "title" : "Diaotin~",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_4.4Монтажная_область_4'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/5_4.5_4'",
                 "title" : "No rest for the wicked",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :  "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_2.4Монтажная_область_2'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/5_5.5_5'",
                 "title" : "The Wolf of Wallstreet",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_3.4Монтажная_область_3'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/5_6.5_6'",
                 "title" : "I know how you take shower",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_1.4Монтажная_область_1'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/5_7.5_7'",
                 "title" : "No need in fashion police",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_4.4Монтажная_область_4'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/5_8.5_8'",
                 "title" : "Meet the Master",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :  "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_2.4Монтажная_область_2'",
                 "value" : 1
             }
@@ -310,56 +310,56 @@
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/7_1.7_1'",
                 "title" : "Golden wedding",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :"Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_3.4Монтажная_область_3'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/7_2.7_2'",
                 "title" : "HelpMe-et",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_1.4Монтажная_область_1'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/7_3.7_3'",
                 "title" : "Casanova",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_4.4Монтажная_область_4'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/7_4.7_4'",
                 "title" : "Faithful genes",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :  "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_2.4Монтажная_область_2'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/7_5.7_5'",
                 "title" : "It's family business",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_3.4Монтажная_область_3'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/7_6.7_6'",
                 "title" : "Book before hook",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" : "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_1.4Монтажная_область_1'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/7_7.7_7'",
                 "title" : "Parent of the year",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :"Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_4.4Монтажная_область_4'",
                 "value" : 1
             },
             {
                 "image" : "Texture2D'/Game/MakeMyHappy/Assets/Kartochki_sobytiy/7_8.7_8'",
                 "title" : "Digesting the butterflies",
-                "info" : "Your parents divorced. Well, that means twice as much pocket money",
+                "info" : "[Will be available in the full version]",
                 "icon_perc" :  "Texture2D'/Game/MakeMyHappy/Assets/Perci/4Монтажная_область_2.4Монтажная_область_2'",
                 "value" : 1
             }
